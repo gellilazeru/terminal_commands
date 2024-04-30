@@ -20,9 +20,9 @@
 |**Q**|*Quit*|Used to quit and return to original page of terminal|
 
 
-###Extension:
+### Extension:
 
 > a gitignore file specifies untracked files that Git should ignore. As there was no output when added to repo, the command has succeeded
 
-![alt text](Extension1.jpg)
+![alt text](Extension1.jpeg)
 
