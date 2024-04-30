@@ -1,5 +1,5 @@
 # Cheatsheet for BNTA
-#### More practice = a longer cheeky coffee break! 😄☕️
+#### More practice = a longer cheekier coffee break! 😄☕️
 
 
 |Command|Use|Description|
@@ -18,3 +18,11 @@
 |**rm -r**|*Remove*|To remove an entire directory; cannot be reversed nor restored|
 |**rm -rf**|😧|Removes files and directories forcefully (with no reassurance/confirmation) and recursively |
 |**Q**|*Quit*|Used to quit and return to original page of terminal|
+
+
+###Extension:
+
+> a gitignore file specifies untracked files that Git should ignore. As there was no output when added to repo, the command has succeeded
+
+![alt text](Extension1.jpg)
+
